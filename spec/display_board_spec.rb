@@ -158,7 +158,7 @@ describe "#display_board in 'lib/display_board.rb" do
 
 
       # Don't touch the following lines.
-  
+
 
       # Each line that starts with expect represents a row in the ouput.
       # The desired characters a row must include are provided by the String
